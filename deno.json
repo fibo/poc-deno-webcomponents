@@ -1,0 +1,6 @@
+{
+  "importMap": "import_map.json",
+  "tasks": {
+    "webapp": "deno run --allow-net webapp/server.ts"
+  }
+}
